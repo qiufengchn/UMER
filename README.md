@@ -1,4 +1,3 @@
-```markdown
 # UM4ENERGY
 **Urban Morphology for Energy Resilience (UMER)**
 
@@ -65,7 +64,6 @@ This study investigates the impact of urban morphology on energy consumption usi
 ### Installation
 ```bash
 pip install -r requirements.txt
-```
 
 ### Usage
 ```python
